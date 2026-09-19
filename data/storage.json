@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "_id": "5dafe4893bb98ed6d99ae386",
+      "name": "Jothipriya",
+      "email": "jothi@example.com",
+      "password": "$2a$10$pUmDULWpzaLs1eeo7yIXb.SXOkbuxJYII6RvWukm9rRRLSbdJ/i7a",
+      "createdAt": "2026-09-19T15:46:13.616Z",
+      "updatedAt": "2026-09-19T15:46:13.732Z"
+    },
+    {
+      "_id": "5786b9a1d86f13fcf7d089d0",
+      "name": "Jothipriya Lakshmanan",
+      "email": "jothipriyalaxmanan@gmail.com",
+      "password": "$2a$10$rRe/E9dupgFpWAJheEJrC.pO2.F9vghBaYq8tCyoRtF0EL.rK9x1e",
+      "createdAt": "2026-09-19T15:48:51.065Z",
+      "updatedAt": "2026-09-19T15:48:51.167Z"
+    }
+  ],
+  "tasks": [
+    {
+      "_id": "cb6ac87e29a7d979f7b99573",
+      "user": "5786b9a1d86f13fcf7d089d0",
+      "title": "Complete Java Practice",
+      "description": "Practice Java basics including OOP concepts, exception handling, and multithreading. Solve at least 10 coding problems and review important interview questions.",
+      "deadline": "2026-09-25T00:00:00.000Z",
+      "priority": "high",
+      "status": "completed",
+      "createdAt": "2026-09-19T15:50:49.807Z",
+      "updatedAt": "2026-09-19T16:55:41.715Z"
+    },
+    {
+      "_id": "f7e0bfe67a3730eaafa63106",
+      "user": "5786b9a1d86f13fcf7d089d0",
+      "title": "Build Portfolio Website",
+      "description": "Create responsive portfolio using HTML, CSS and JavaScript",
+      "deadline": "2026-09-30T00:00:00.000Z",
+      "priority": "medium",
+      "status": "completed",
+      "createdAt": "2026-09-19T15:56:42.612Z",
+      "updatedAt": "2026-09-19T16:55:39.168Z"
+    },
+    {
+      "_id": "ae9618afd9830f06aab2df15",
+      "user": "5786b9a1d86f13fcf7d089d0",
+      "title": "Test Task Management App",
+      "description": "Check login, task creation, update and delete features.",
+      "deadline": "2026-09-19T00:00:00.000Z",
+      "priority": "high",
+      "status": "completed",
+      "createdAt": "2026-09-19T15:59:00.301Z",
+      "updatedAt": "2026-09-19T16:55:34.091Z"
+    }
+  ]
+}
