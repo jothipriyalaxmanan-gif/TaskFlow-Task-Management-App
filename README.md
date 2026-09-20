@@ -203,3 +203,13 @@ Once started, the console will confirm:
 - JWT tokens expire after 7 days.
 - User tasks are strictly scoped by user ID (`req.user._id`), preventing horizontal privilege escalation.
 - Cross-Site Scripting (XSS) prevention on frontend user input rendering.
+## 📸 Screenshots
+
+### Login Page
+![Login](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Add Task
+![Add Task](screenshots/add-task.png)
