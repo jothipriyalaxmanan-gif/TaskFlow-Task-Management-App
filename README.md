@@ -206,10 +206,10 @@ Once started, the console will confirm:
 ## 📸 Screenshots
 
 ### Login Page
-![Login](screenshots/login.png)
+![Login](login.png)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ### Add Task
-![Add Task](screenshots/add-task.png)
+![Add Task](add-task.png)
